@@ -1,0 +1,6 @@
+{
+    "unauthed":[
+        {"id":"abc123abc123abc123","name":"min chon"}, {"id":"123412341234abcdef","name":"other test"}
+    ],
+    "authed":[]
+}

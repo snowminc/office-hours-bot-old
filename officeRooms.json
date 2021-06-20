@@ -1,0 +1,17 @@
+{
+    "allRooms":[
+        {"key":"<discord role1 id>", "room":"<discord channel1 id>", "teachers":[], "students":[]},
+        {"key":"<discord role2 id>", "room":"<discord channel2 id>", "teachers":[], "students":[]},
+        {"key":"<discord role3 id>", "room":"<discord channel3 id>", "teachers":[], "students":[]},
+        {"key":"<discord role4 id>", "room":"<discord channel4 id>", "teachers":[], "students":[]},
+        {"key":"<discord role5 id>", "room":"<discord channel5 id>", "teachers":[], "students":[]},
+        {"key":"<discord role6 id>", "room":"<discord channel6 id>", "teachers":[], "students":[]}],
+    "openRooms":[
+        {"key":"<discord role1 id>", "room":"<discord channel1 id>", "teachers":[], "students":[]},
+        {"key":"<discord role2 id>", "room":"<discord channel2 id>", "teachers":[], "students":[]},
+        {"key":"<discord role3 id>", "room":"<discord channel3 id>", "teachers":[], "students":[]},
+        {"key":"<discord role4 id>", "room":"<discord channel4 id>", "teachers":[], "students":[]},
+        {"key":"<discord role5 id>", "room":"<discord channel5 id>", "teachers":[], "students":[]},
+        {"key":"<discord role6 id>", "room":"<discord channel6 id>", "teachers":[], "students":[]}],
+    "occupied":[]
+}

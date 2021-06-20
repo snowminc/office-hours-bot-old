@@ -1,0 +1,17 @@
+{
+	"name": "<botname>",
+	"version": "1.0.0",
+	"description": "My First Discord Bot",
+	"main": "bot.js",
+	"author": "<name>",
+	"dependencies": {
+		"@discordjs/uws": "^11.149.1",
+		"discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+		"discord.js": "^11.6.1",
+		"ffmpeg": "0.0.4",
+		"node-fetch": "^2.2.0",
+		"opusscript": "0.0.7",
+		"winston": "^3.1.0",
+		"ytdl-core": "^2.0.0"
+	}
+}
